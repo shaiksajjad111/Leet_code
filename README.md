@@ -46,15 +46,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shaiksajjad111/Leet_code/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shaiksajjad111/Leet_code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
