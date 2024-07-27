@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaiksajjad111/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/shaiksajjad111/Leet_code/tree/master/0383-ransom-note) |
+| [1250-longest-common-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/shaiksajjad111/Leet_code/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
