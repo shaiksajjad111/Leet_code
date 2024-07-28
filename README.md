@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaiksajjad111/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/shaiksajjad111/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shaiksajjad111/Leet_code/tree/master/0383-ransom-note) |
 | [1250-longest-common-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/1250-longest-common-subsequence) |
 ## String Matching
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaiksajjad111/Leet_code/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shaiksajjad111/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shaiksajjad111/Leet_code/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
