@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaiksajjad111/Leet_code/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shaiksajjad111/Leet_code/tree/master/1013-fibonacci-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaiksajjad111/Leet_code/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/shaiksajjad111/Leet_code/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -107,5 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaiksajjad111/Leet_code/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/shaiksajjad111/Leet_code/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
