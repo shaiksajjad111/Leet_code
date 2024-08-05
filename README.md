@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/shaiksajjad111/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shaiksajjad111/Leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shaiksajjad111/Leet_code/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shaiksajjad111/Leet_code/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shaiksajjad111/Leet_code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/shaiksajjad111/Leet_code/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/1250-longest-common-subsequence) |
 ## Greedy
