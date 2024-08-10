@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shaiksajjad111/Leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shaiksajjad111/Leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shaiksajjad111/Leet_code/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shaiksajjad111/Leet_code/tree/master/0383-ransom-note) |
+| [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shaiksajjad111/Leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0226-invert-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0226-invert-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaiksajjad111/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0226-invert-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
+## Matrix
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
