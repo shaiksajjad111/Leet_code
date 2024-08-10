@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaiksajjad111/Leet_code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shaiksajjad111/Leet_code/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaiksajjad111/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shaiksajjad111/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shaiksajjad111/Leet_code/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaiksajjad111/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/shaiksajjad111/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shaiksajjad111/Leet_code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shaiksajjad111/Leet_code/tree/master/0205-isomorphic-strings) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaiksajjad111/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/shaiksajjad111/Leet_code/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaiksajjad111/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -155,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaiksajjad111/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
