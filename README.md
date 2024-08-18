@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shaiksajjad111/Leet_code/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/shaiksajjad111/Leet_code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shaiksajjad111/Leet_code/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
