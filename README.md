@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shaiksajjad111/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/shaiksajjad111/Leet_code/tree/master/0228-summary-ranges) |
 | [0747-min-cost-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
