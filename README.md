@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shaiksajjad111/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/shaiksajjad111/Leet_code/tree/master/0228-summary-ranges) |
+| [0322-coin-change](https://github.com/shaiksajjad111/Leet_code/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/shaiksajjad111/Leet_code/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shaiksajjad111/Leet_code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaiksajjad111/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/shaiksajjad111/Leet_code/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shaiksajjad111/Leet_code/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shaiksajjad111/Leet_code/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shaiksajjad111/Leet_code/tree/master/1013-fibonacci-number) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shaiksajjad111/Leet_code/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shaiksajjad111/Leet_code/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/shaiksajjad111/Leet_code/tree/master/0322-coin-change) |
 | [0999-regions-cut-by-slashes](https://github.com/shaiksajjad111/Leet_code/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaiksajjad111/Leet_code/tree/master/0020-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shaiksajjad111/Leet_code/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shaiksajjad111/Leet_code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
